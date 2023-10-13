@@ -1,3 +1,3 @@
-NAME: "Sand",
-NAMES: "Sands",
-DESC: "Sand are used to make glass and as construction material.",
+NAME: "Sable",
+NAMES: "Sables",
+DESC: "Le sable est utilisé pour fabriquer du verre.",

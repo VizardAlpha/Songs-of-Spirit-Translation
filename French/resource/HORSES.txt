@@ -1,3 +1,3 @@
-NAME: "HORSE",
-NAMES: "HORSES",
-DESC: "Domesticated horses. Useful for civilians as pack animals within logistics and in armies as mounts for powerful cavalry units.",
+NAME: "Cheval",
+NAMES: "Chevaux",
+DESC: "Chevaux domestiqués. Utiles pour les civils en tant qu'animaux de trait dans le cadre de la logistique et dans les armées en tant que montures pour les puissantes unités de cavalerie.",

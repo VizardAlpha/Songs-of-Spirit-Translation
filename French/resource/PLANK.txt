@@ -1,3 +1,3 @@
-NAME: "Plank",
-NAMES: "Planks",
-DESC: "The planks are mainly used to make furniture for your citizens!",
+NAME: "Planche",
+NAMES: "Planches",
+DESC: "Les planches sont principalement utilisées pour fabriquer des meubles pour vos citoyens !",

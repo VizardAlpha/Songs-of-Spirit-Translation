@@ -1,3 +1,3 @@
-NAME: "Glass",
-NAMES: "Glass",
-DESC: "Allows to decorate your homes, the glass is created at the glass producer.",
+NAME: "Verre",
+NAMES: "Verre",
+DESC: "Permet de décorer vos maisons, le verre est créé chez le vitrier.",

@@ -1,3 +1,3 @@
-NAME: "Crossbow",
-NAMES: "Crossbow",
-DESC: "More powerful than a bow and has a better range. Reloads a little longer.",
+NAME: "Arbalète",
+NAMES: "Arbalètes",
+DESC: "Plus puissant qu'un arc et a une meilleure portée. Le rechargement est un peu plus long que l'arc.",

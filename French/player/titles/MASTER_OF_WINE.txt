@@ -1,2 +1,2 @@
-NAME: "Master of wine",
-DESC: "Being a true winegrower means having more vineyard than farmland.",
+NAME: "Maître du vin",
+DESC: "Être un vrai vigneron signifie avoir plus de vignobles que de terres agricoles.",
