@@ -1,0 +1,16 @@
+INFO: {
+	NAME: "mod房间",
+	NAMES: "mod房间",
+	DESC: "mod房间? Mod房间.",
+},
+
+STATS: [
+
+],
+
+ITEMS: [
+	{
+		NAME: "第一个物品",
+		DESC: "第一个物品.",
+	},
+],

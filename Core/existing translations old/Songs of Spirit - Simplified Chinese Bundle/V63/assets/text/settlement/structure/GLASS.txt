@@ -1,0 +1,13 @@
+INFO: {
+	NAME: "玻璃建筑",
+	NAMES: "玻璃建筑",
+	DESC: "主要用于装饰",
+},
+
+BONUS: {
+	NAME: "玻璃建筑结构",
+	DESC: "减少了玻璃建筑的施工时间",
+},
+
+NAME_WALL: "玻璃墙",
+NAME_CEILING: "玻璃木质天花板",

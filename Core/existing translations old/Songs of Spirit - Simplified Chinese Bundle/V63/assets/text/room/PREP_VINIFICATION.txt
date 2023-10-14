@@ -1,0 +1,40 @@
+INFO: {
+	NAME: "栈道",
+	NAMES: "mod房间",
+	DESC: "mod房间? Mod房间.",
+},
+
+WORK: {
+	TITLE: "掘沙工",
+	VERB: "挖掘沙子",
+},
+
+STATS: [
+	{
+		NAME: "Workers1",
+		DESC: "Maximum amount of workers.",	
+	},
+	{
+		NAME: "Deposits2",
+		DESC: "The average fidelity of the deposits. Higher increases production.",	
+	},	
+	{
+		NAME: "Depositsmllm2",
+		DESC: "The average fidelity of the deposits. Higher increases production.",	
+	},
+],
+
+ITEMS: [
+	{
+		NAME: "First Item",
+		DESC: "TFirst item.",
+	},
+	{
+		NAME: "First Iteùlmµ",
+		DESC: "TFirst itemkùmùll.",
+	},
+	{
+		NAME: "First Iteùmùmlùùlmµ",
+		DESC: "TFirst itelmùmkùmùll.",
+	},
+],

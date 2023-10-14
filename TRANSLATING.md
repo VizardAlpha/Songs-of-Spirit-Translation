@@ -20,13 +20,12 @@ Once you are done, press the *propose new file* button at the bottom, then 'crea
 
 #### Useful Information
 
-- `//` means comment. Can be useful if you're working on a bundle with a few people to leave information. The game will not read this part of the code
+- `#` means comment. Can be useful if you're working on a bundle with a few people to leave information. The game will not read this part of the code.
+- Don't use `"`/`'` in your translations.
+- Respect the rules of grammar in your translations, Capital letters and dots.
 
-#### Testing your translation bundle
+#### One more thing
+If you think *you can* improve the grammar, syntax,... in the file [bundle.properties](https://github.com/VizardAlpha/Songs-of-Spirit-Translation/blob/main/Core/Bundles/bundle.properties). Edit the file and make a pull request when you think you've finished.
 
-There are one way to test the translation bundle:
-1) Assuming you have the game downloaded, download your bundle file, then place it in the same folder as the Songs of Syx `` and run it.
 
-**And that's it.**  
-
-*(...of course, that's never really it. Bother me on Discord when something inevitably goes wrong.)*
+**And that's it.**

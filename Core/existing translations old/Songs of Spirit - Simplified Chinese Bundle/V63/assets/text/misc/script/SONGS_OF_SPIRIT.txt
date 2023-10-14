@@ -1,0 +1,4 @@
+SONGS_OF_SPIRIT_INFO: {
+	NAME: "Songs of Spirit [脚本]",
+	DESC: "Songs of Spirit所需的脚本.",
+},
