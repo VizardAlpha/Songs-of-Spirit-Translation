@@ -1,4 +1,4 @@
-<img src="core/assets/sprites/ui/Song_of_Spirit.png" width="650" height="385">
+<img src="Core/assets/sprites/ui/Song_of_Spirit.png" width="650" height="385">
 
 [![Discord](https://img.shields.io/discord/1101869575655657523.svg?logo=discord&logoColor=white&logoWidth=20&labelColor=7289DA&label=Discord&color=17cf48)](https://discord.gg/KCarMbDtJz)
 
