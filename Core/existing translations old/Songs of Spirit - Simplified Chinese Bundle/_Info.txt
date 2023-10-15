@@ -1,8 +1,0 @@
-VERSION: "0.1.6",
-GAME_VERSION_MAJOR: 63,
-GAME_VERSION_MINOR: 39,
-NAME: "Songs of Spirit - Simplified Chinese Bundle",
-DESC: "Songs of Spirit - Translation Bundle",
-AUTHOR: "VizardAlpha#3714",
-INFO: "Game V63.39 | Mod Version.0.1.6 | Mod Songs of Spirit V0.2.2%r%%r%Thanks to [Prototype alpha,] for the translation!",
-CHARSET: "zh-CN",
