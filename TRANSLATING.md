@@ -1,4 +1,4 @@
-## Translating for Necesse
+## Translating for Songs of Spirit
 
 To begin, log in to your GitHub account, or if you don't have one yet, create it [here](https://github.com/).
 
