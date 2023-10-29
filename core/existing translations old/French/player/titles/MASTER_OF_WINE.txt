@@ -1,2 +1,0 @@
-NAME: "Maître du vin",
-DESC: "Être un vrai vigneron signifie avoir plus de vignobles que de terres agricoles.",

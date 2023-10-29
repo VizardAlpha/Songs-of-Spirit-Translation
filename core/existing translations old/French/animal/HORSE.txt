@@ -1,5 +1,0 @@
-INFO: {
-	NAME: "Cheval",
-	NAMES: "Chevaux",
-	DESC: "Herbivore rapide à quatre pattes. S'ils sont domestiqués, les chevaux sont difficiles à élever, mais ils compensent leur utilité en tant que robustes bêtes de trait ou de rapides montures de guerre.",
-},

@@ -1,6 +1,0 @@
-SONGS_OF_SPIRIT_NEW_GAME: {
-	TITLE: "Bienvenue !",
-	PARAGRAPHS: [
-"Merci d'avoir téléchargé Songs of Spirit ! Puissiez-vous être heureux pendant cette partie !%r%%r% Je vous recommande de jeter un coup d'œil rapide aux nouvelles ressources dans l'onglet de droite ! Vous pouvez retrouver l'équipe de Songs of Spirit sur ce Discord !%r%%r% https://discord.gg/KCarMbDtJz",
-],
-},
