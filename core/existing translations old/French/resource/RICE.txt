@@ -1,3 +1,0 @@
-NAME: "Riz",
-NAMES: "Riz",
-DESC: "Le riz est une source de nourriture provenant d'un pays lointain. Qui n'aime pas le riz...?",

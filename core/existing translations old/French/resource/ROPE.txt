@@ -1,3 +1,0 @@
-NAME: "Corde",
-NAMES: "Cordes",
-DESC: "Les cordes sont utilisées pour fabriquer des arc ou encore d'autres objets.",

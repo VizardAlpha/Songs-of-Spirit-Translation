@@ -1,3 +1,0 @@
-NAME: "Chair de saumon",
-NAMES: "Chair de saumons",
-DESC: "La chair de saumon est une source de nourriture, mais honnêtement avec du riz. Miamm.",

@@ -1,3 +1,0 @@
-NAME: "Bouclier",
-NAMES: "Boucliers",
-DESC: "Utilisé pour équiper les soldats pour la bataille.",

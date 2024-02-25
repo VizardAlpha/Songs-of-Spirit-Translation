@@ -1,3 +1,0 @@
-NAME: "Raisin",
-NAMES: "Raisins",
-DESC: "Le raisin est une source de nourriture, convoitée par beaucoup, attention à son tanin !",

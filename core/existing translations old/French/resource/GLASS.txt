@@ -1,3 +1,0 @@
-NAME: "Verre",
-NAMES: "Verre",
-DESC: "Permet de décorer vos maisons, le verre est créé chez le vitrier.",

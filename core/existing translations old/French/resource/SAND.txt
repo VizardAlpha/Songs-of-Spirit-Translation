@@ -1,3 +1,0 @@
-NAME: "Sable",
-NAMES: "Sables",
-DESC: "Le sable est utilisé pour fabriquer du verre.",

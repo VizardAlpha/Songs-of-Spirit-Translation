@@ -1,3 +1,0 @@
-NAME: "Minerai d'or",
-NAMES: "Minerais d'or",
-DESC: "Les minerais d'or sont utilisés pour fabriquer des lingots d'or.",

@@ -1,3 +1,0 @@
-NAME: "Lingot d'or",
-NAMES: "Lingots d'or",
-DESC: "Les lingots d'or sont utilisés pour fabriquer des objets précieux.",

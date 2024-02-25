@@ -1,3 +1,0 @@
-NAME: "Planche",
-NAMES: "Planches",
-DESC: "Les planches sont principalement utilisées pour fabriquer des meubles pour vos citoyens !",

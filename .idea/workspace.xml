@@ -4,7 +4,76 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94702b74-cc99-4e7b-8639-df9f376d9117" name="Changes" comment="vcs.xml" />
+    <list default="true" id="94702b74-cc99-4e7b-8639-df9f376d9117" name="Changes" comment="Config git and move ressources">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/translation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/CROSSBOW.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/CROSSBOW.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/GLASS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/GLASS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/GOLD_INGOT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/GOLD_INGOT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/GOLD_ORE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/GOLD_ORE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/GRAPE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/GRAPE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/HORSES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/HORSES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/PLANK.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/PLANK.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/RICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/RICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/ROPE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/ROPE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/SALMON_FLESH.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/SALMON_FLESH.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/SAND.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/SAND.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/SHIELD.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/SHIELD.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/SUSHI.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/SUSHI.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/resource/WINE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/resource/WINE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/room/FARM_GRAPE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/room/FARM_GRAPE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/room/FARM_RICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/room/FARM_RICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/room/MINE_GOLD.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/room/MINE_GOLD.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/French/room/MINE_SAND.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/French/room/MINE_SAND.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/CROSSBOW.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/CROSSBOW.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/GLASS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/GLASS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/GOLD_INGOT.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/GOLD_INGOT.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/GOLD_ORE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/GOLD_ORE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/GRAPE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/GRAPE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/HORSES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/HORSES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/RICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/RICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/ROPE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/ROPE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/SALMON_FLESH.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/SALMON_FLESH.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/SAND.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/SAND.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/SHIELD.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/SHIELD.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/SUSHI.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/SUSHI.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/resource/WINE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/resource/WINE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/FARM_GRAPE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/FARM_GRAPE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/FARM_RICE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/FARM_RICE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/MINE_GOLD.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/MINE_GOLD.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/MINE_SAND.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/MINE_SAND.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/MOD_ROOM.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/MOD_ROOM.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/PASTURE_HORSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/PASTURE_HORSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/PREP_VINIFICATION.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/PREP_VINIFICATION.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/REFINER_GLASSMAKER.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/REFINER_GLASSMAKER.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/REFINER_VINIFICATION.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/REFINER_VINIFICATION.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/room/WORKSHOP_KITCHEN.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/room/WORKSHOP_KITCHEN.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/settlement/floor/SANDSTONE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/settlement/floor/SANDSTONE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/settlement/floor/STONE_UPGRADE_0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/settlement/floor/STONE_UPGRADE_0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/settlement/floor/STONE_UPGRADE_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/settlement/floor/STONE_UPGRADE_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/settlement/structure/GLASS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/settlement/structure/GLASS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/CIV_KITCHEN.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/CIV_KITCHEN.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/CRA_BOWYER.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/CRA_BOWYER.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/CRA_CARPENTER.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/CRA_CARPENTER.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/CRA_JEWELRY.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/CRA_JEWELRY.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/FAR_FIELDS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/FAR_FIELDS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/MIN_GOLD.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/MIN_GOLD.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/MIN_MININGBONUS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/MIN_MININGBONUS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/MIN_SAND.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/MIN_SAND.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/MISC_LOGISTICS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/MISC_LOGISTICS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/MISC_ROADS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/MISC_ROADS.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/REF_GLASSMAKER.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/REF_GLASSMAKER.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/REF_SMELTER.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/REF_SMELTER.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/REF_VINIFICATION.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/REF_VINIFICATION.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/REF_WEAVER.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/REF_WEAVER.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/WILD_HOR.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/WILD_HOR.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/existing translations old/Songs of Spirit - Simplified Chinese Bundle/tech/WILD_HORSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core/old translations/Songs of Spirit - Simplified Chinese Bundle/tech/WILD_HORSE.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,12 +82,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VizardAlpha"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VizardAlpha&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -30,9 +99,16 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2c6e40kyCZ6dV7OLKiKaWC0uf5Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,18 +119,21 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Aurélien/IdeaProjects/Songs-of-Spirit-Translation",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Aurélien\IdeaProjects\Songs-of-Spirit-Translation" />
+      <recent name="C:\Users\Aurélien\IdeaProjects\Songs-of-Spirit-Translation\.idea" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -93,9 +172,22 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore" />
     <MESSAGE value="vcs.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="vcs.xml" />
+    <MESSAGE value="gitignore.." />
+    <MESSAGE value="Config git and move ressources" />
+    <option name="LAST_COMMIT_MESSAGE" value="Config git and move ressources" />
   </component>
 </project>

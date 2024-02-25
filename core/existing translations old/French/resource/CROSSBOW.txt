@@ -1,3 +1,0 @@
-NAME: "Arbalète",
-NAMES: "Arbalètes",
-DESC: "Plus puissant qu'un arc et a une meilleure portée. Le rechargement est un peu plus long que l'arc.",

@@ -1,3 +1,0 @@
-NAME: "Vin",
-NAMES: "Vins",
-DESC: "Le vin le plus fort. Il peut être consommé par vos sujets et constitue l'essence même de la vie.",

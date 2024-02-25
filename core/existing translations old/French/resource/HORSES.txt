@@ -1,3 +1,0 @@
-NAME: "Cheval",
-NAMES: "Chevaux",
-DESC: "Chevaux domestiqués. Utiles pour les civils en tant qu'animaux de trait dans le cadre de la logistique et dans les armées en tant que montures pour les puissantes unités de cavalerie.",
