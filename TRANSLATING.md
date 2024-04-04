@@ -15,7 +15,7 @@ Once this is done, all you need to do is wait for me to approve your changes.
 
 If a translation bundle for your language *doesn't* exist, you need to create one yourself.  
 In the folder with all the bundles in it, click the *'create new file'* button, and name it `bundle_(locale code here).properties`. 
-Then, copy-paste the entire contents of the [English translation bundle](https://raw.githubusercontent.com/VizardAlpha/Songs-of-Spirit-Translation/main/Core/Bundles/bundle.properties) into the file, and translate all the necessary text to your language.
+Then, copy-paste the entire contents of the [English translation bundle](https://raw.githubusercontent.com/VizardAlpha/Songs-of-Spirit-Translation/main/core/bundles/bundle.properties) into the file, and translate all the necessary text to your language.
 Once you are done, press the *propose new file* button at the bottom, then 'create pull request' twice.  
 
 #### Useful Information
