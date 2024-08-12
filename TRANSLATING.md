@@ -3,7 +3,7 @@
 To begin, log in to your GitHub account, or if you don't have one yet, create it [here](https://github.com/).
 
 Consult [this list](https://www.science.co.il/language/Locale-codes.php) to find the locale code for your language. Once you've found it, 
-head over to the translation bundle folder and check the [list of bundles](https://github.com/VizardAlpha/Songs-of-Spirit-Translation/tree/main/Core/Bundles) that have already been created. 
+head over to the translation bundle folder and check the [list of bundles](https://github.com/VizardAlpha/Songs-of-Spirit-Translation/tree/main/core/bundles) that have already been created. 
 You're looking for a file called "`bundle_`(insert locale code here)`.properties`". If you don't find one, create one manually (more info below).
 
 #### Editing an existing translation
